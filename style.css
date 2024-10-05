@@ -46,7 +46,7 @@ nav ul li a:hover {
 
 /* Estilo para a Seção Hero */
 #hero {
-    background: url('../imagens/banner.png') center/cover no-repeat; /* Banner como fundo */
+    background: url('banner.png') center/cover no-repeat; /* Banner como fundo */
     height: 100vh;
     display: flex;
     justify-content: center;
