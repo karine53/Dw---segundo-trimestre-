@@ -15,6 +15,11 @@ nav {
     z-index: 1000;
     
 }
+.logo{
+    max-height: 200px;
+    whidth: auto;
+    border-radius:100px;
+} 
 
 nav ul {
     list-style: none;
